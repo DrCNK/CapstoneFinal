@@ -1,0 +1,12 @@
+name: NxtWordPredictorApp
+title: NxtWordPredictorApp
+username:
+account: doccnk
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3316015
+bundleId: 3916519
+url: https://doccnk.shinyapps.io/NxtWordPredictorApp/
+when: 1606584424.5644
+asMultiple: FALSE
+asStatic: FALSE
